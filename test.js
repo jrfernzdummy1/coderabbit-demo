@@ -1,7 +1,7 @@
 var num1 = 10,num2 = 20;
 var sum = num1+num2;
 
-if(num1<num2){console.log('Num1 is less than Num2')}else{console.log('Num1 is greater than or equal to Num2')} // bad formatting
+if(num1<num2){console.log('Num1 is less than Num2')}else{console.log('Num1 is greater than or equal to Num2')} 
 
 var apiUrl = "http://example.com/api";
 var apiKey = "12345";
